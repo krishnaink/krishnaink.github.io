@@ -10,7 +10,7 @@ html {
 
 /* Changes navbar brand text to imported font */
 .navbar-brand {
-  font-size: 3em;s
+  font-size: 3em;
   font-family: 'Indie Flower', cursive;
 }
 
@@ -31,7 +31,7 @@ body {
 
 .home-body {
   padding-top: 25vh;
-  //background: url(https://i.imgur.com/KvNSWeb.jpg) no-repeat top center fixed;
+  /*background: url(https://i.imgur.com/KvNSWeb.jpg) no-repeat top center fixed;
   //background: url(https://i.imgur.com/Cpey9ae.png) no-repeat top center fixed;
   //background-color: #011627;
   //background-size: cover;
@@ -61,7 +61,7 @@ background: linear-gradient(to left, #43cea2, #185a9d); /* Chrome 10-25, Safari 
 .home-body h2 {
   font-size: 1.2em;
   color: #fff;
-  //opacity: .7;
+  /*opacity: .7;*/
   padding-bottom: 15px;
 }
 
