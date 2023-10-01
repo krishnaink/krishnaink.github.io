@@ -31,15 +31,15 @@ body {
 
 .home-body {
   padding-top: 25vh;
-  /*background: url(https://i.imgur.com/KvNSWeb.jpg) no-repeat top center fixed;
-  //background: url(https://i.imgur.com/Cpey9ae.png) no-repeat top center fixed;
-  //background-color: #011627;
-  //background-size: cover;
+  background: url(https://i.imgur.com/KvNSWeb.jpg) no-repeat top center fixed;
+  background: url(https://i.imgur.com/Cpey9ae.png) no-repeat top center fixed;
+  background-color: #011627;
+  background-size: cover;
   background: #43cea2; /* fallback for old browsers */
-background: -webkit-linear-gradient(right, #43cea2, #185a9d);
-background: -moz-linear-gradient(right, #43cea2, #185a9d);
-background: -o-linear-gradient(right, #43cea2, #185a9d);
-background: linear-gradient(to left, #43cea2, #185a9d); /* Chrome 10-25, Safari 5.1-6 */ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(right, #43cea2, #185a9d);
+  background: -moz-linear-gradient(right, #43cea2, #185a9d);
+  background: -o-linear-gradient(right, #43cea2, #185a9d);
+  background: linear-gradient(to left, #43cea2, #185a9d); /* Chrome 10-25, Safari 5.1-6 */ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   height: 100%;
 }
 
@@ -61,7 +61,7 @@ background: linear-gradient(to left, #43cea2, #185a9d); /* Chrome 10-25, Safari 
 .home-body h2 {
   font-size: 1.2em;
   color: #fff;
-  /*opacity: .7;*/
+  opacity: .7;
   padding-bottom: 15px;
 }
 
@@ -135,13 +135,13 @@ a[id*="a-"] { /* Fix for all anchor tags to adjust because of the fixed navbar o
 }
 
 #about-full {
-  //background-color: #247BA0;
+  background-color: #247BA0;
   background-color: #16425B;
 }
 
 #about-body {
   height: 100%;
-  //height: calc(100vh - 50px);
+  height: calc(100vh - 50px);
 }
 
 #about-body h2 {
